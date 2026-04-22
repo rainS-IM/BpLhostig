@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BPL Loader</title>
+</head>
+<body>
+    <div id="content">Loading BPL Premium...</div>
+
+    <script>
+        const NEW_FILE_CODE = "1234"; 
+        const url = 'https://cdn.jsdelivr.net/gh/rainS-IM/BPLGames@main/BPLPremium.html';
+
+        fetch(url)
+            .then(response => response.text())
+            .then(data => {
+                const modifiedData = data.replace(
+                    /ACCESS_CODE\s*=\s*(["']).*?\1/g, 
+                    `ACCESS_CODE = "${NEW_FILE_CODE}"`
+                );
+
+                document.open();
+                document.write(modifiedData);
+                document.close();
+            })
+            .catch(err => {
+                console.error('Fetch Error:', err);
+                document.getElementById('content').innerText = 'Error loading content.';
+            });
+    </script>
+</body>
+</html>
