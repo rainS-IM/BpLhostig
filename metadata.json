@@ -1,0 +1,52 @@
+{
+    "game_id": 2866110,
+    "title": "Court Clash Basketball",
+    "url": "https://simsimco.itch.io/court-clash",
+    "cover_url": "https://img.itch.zone/aW1nLzE3MTU3NDg4LmdpZg==/original/9tvJ6Y.gif",
+    "screenshots": [
+        "https://img.itch.zone/aW1hZ2UvMjg2NjExMC8xNzE1NzQ2Ni5wbmc=/original/zNbpmr.png",
+        "https://img.itch.zone/aW1hZ2UvMjg2NjExMC8xNzE1NzQ4Ni5naWY=/original/faxhOC.gif",
+        "https://img.itch.zone/aW1hZ2UvMjg2NjExMC8xNzE1NzQ2Ny5wbmc=/original/h13Zbv.png"
+    ],
+    "description": "A frantic basketball game for 2 players.",
+    "author": "Simulated Simulation Co.",
+    "author_url": "https://simsimco.itch.io",
+    "extra": {
+        "status": "Released",
+        "platforms": [
+            "HTML5"
+        ],
+        "genre": {
+            "Sports": "https://itch.io/games/genre-sports"
+        },
+        "tools": {
+            "Unity": "https://itch.io/games/made-with-unity"
+        },
+        "tags": {
+            "2D": "https://itch.io/games/tag-2d",
+            "Basketball": "https://itch.io/games/tag-basketball",
+            "Funny": "https://itch.io/games/tag-funny",
+            "Local multiplayer": "https://itch.io/games/tag-local-multiplayer",
+            "Physics": "https://itch.io/games/tag-physics",
+            "Pixel Art": "https://itch.io/games/tag-pixel-art",
+            "Retro": "https://itch.io/games/tag-retro",
+            "Two Player": "https://itch.io/games/tag-two-player"
+        },
+        "length": "A few minutes",
+        "inputs": {
+            "Keyboard": "https://itch.io/games/input-keyboard",
+            "Touchscreen": "https://itch.io/games/input-touchscreen"
+        },
+        "accessibility": {
+            "Color-blind friendly": "https://itch.io/games/accessibility-colorblind",
+            "High-contrast": "https://itch.io/games/accessibility-highcontrast",
+            "Textless": "https://itch.io/games/accessibility-textless"
+        },
+        "multiplayer": {
+            "Local multiplayer": "https://itch.io/games/local-multiplayer"
+        },
+        "player_count": "2"
+    },
+    "errors": [],
+    "external_downloads": []
+}
