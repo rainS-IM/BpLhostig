@@ -1,0 +1,2 @@
+[2026-05-02T14:12:34.718Z] Fetch failed (404) for https://unicorn.jocke.no/favicon.ico
+Unknown error
